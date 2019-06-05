@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/build/cmd/nop@sha256:50e2be042298f24800b9840a9aef831a5fe4d89d9a8edea5e0559cdedf32369d
+FROM gcr.io/knative-releases/github.com/knative/build/cmd/controller@sha256:6a762848a46786cb481f5870787133e0d5e15615f8d54a5ba50d86b8315a58eb
 MAINTAINER hq

@@ -1,2 +1,2 @@
-FROM gcr.io/cloud-builders/gcs-fetcher
+FROM gcr.io/knative-releases/github.com/knative/eventing-sources/cmd/event_display
 MAINTAINER hq

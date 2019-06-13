@@ -1,2 +1,2 @@
-FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/in_memory/dispatcher@sha256:897f03ed16e0000944da9ee0fdc971c43c8a494ff771c4e64d0573caf357c013
+FROM gcr.io/knative-releases/github.com/knative/eventing/cmd/broker/filter@sha256:b4da7ce7b12aff2355066ed3237aadcf35df3b1c78db83cc538e6cffa564f208
 MAINTAINER hq

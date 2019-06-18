@@ -1,2 +1,2 @@
-FROM gcr.io/knative-samples/helloworld-go
+FROM gcr.io/kaniko-project/executor
 MAINTAINER hq
